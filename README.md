@@ -1,6 +1,5 @@
 <details>
 <summary>
-```markdown
  
 # NeuroStartUp
 
