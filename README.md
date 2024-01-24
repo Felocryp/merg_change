@@ -1,7 +1,7 @@
 ```markdown
 # NeuroStartUp
 
-![](./logo.png)
+![]("C:\Users\Феликс\Desktop\Обучение неотологий\Git\Homework\2\creating branch\logo.png")
 
 *NeuroStartUp* — динамически развивающийся стартап, специализирующийся на поиске с использованием 
  новейших технологий искусственного интеллекта.
